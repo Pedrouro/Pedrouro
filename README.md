@@ -3,7 +3,7 @@
 <h1> Pedro Henrique </h1>
 
 ## Sobre
-Olá! Meu nome é Pedro Henrique, sou um entusiasta da tecnologia desde pequeno, onde passava a maior parte do dia no computador jogando com alguns amigos. Quando eu completei o ensino fundamental, tive que me matricular em uma escola para fazer o ensino médio, onde optei por realizar ele junto com o ensino técnico, na qual escolhi fazer informática e foi onde eu conheci o mundo da programação e me apaixonei por sua ampla variedade de tecnologias, ferramentas e todas as suas possibilidades de criações, onde o limite é apenas a nossa imaginação. Atualmente estou aprofundando meus conhecimentos nas linguagens C#, python e nos recursos da plataforma .NET e estou buscando oportunidades como programador back-end. 
+Olá! Meu nome é Pedro Henrique, sou um entusiasta da tecnologia desde pequeno, onde passava a maior parte do dia no computador jogando com alguns amigos. Quando eu completei o ensino fundamental, tive que me matricular em uma escola para fazer o ensino médio, onde optei por realizar ele junto com o ensino técnico, na qual escolhi fazer informática e foi onde eu conheci o mundo da programação e me apaixonei por sua ampla variedade de tecnologias, ferramentas e todas as suas possibilidades de criações, onde o limite é apenas a nossa imaginação. Atualmente estou aprofundando meus conhecimentos nos recursos da plataforma .NET, e nas linguagens C#, Python e Javascript.
 
 ## Tecnologias
 <div style="display: inline_block">
