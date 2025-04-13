@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Welcome+to+my+profile!&color=58FA58&height=120&section=header&animation=twinkling&fontColor=FFF&fontSize=45%"/>
-
 <h1> Pedro Henrique </h1>
 
 ## Sobre
@@ -31,4 +29,3 @@ Olá! Meu nome é Pedro Henrique, sou um entusiasta da tecnologia desde pequeno,
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pedrouro&bg_color=000&border_color=58FA58&title_color=58FA58&text_color=FFF"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58FA58&height=120&section=footer"/>
